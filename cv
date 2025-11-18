@@ -1,0 +1,93 @@
+<cv html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV – Mina Squalli-Houssaïni</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <!-- tu peux mettre un petit lien retour si tu veux -->
+  <a href="index.html" style="font-size:0.8rem; margin:1rem; display:inline-block;">← retour</a>
+
+<section id="cv" style="max-width:800px; margin:2rem auto; padding:0 1rem; font-family:'Avenir', sans-serif; color:#000;">
+  <h1 style="font-weight:400; font-size:1rem; margin-bottom:2rem;">CV – Mina Squalli-Houssaïni</h1>
+  <div class="cv-columns">
+    <div class="column">
+      <h2>Solo Exhibitions</h2>
+      <p>2025 Sacred Games Amore, Basel</p>
+      <p>2024 Dwelling with the Shadows, duo show with Nastasia Meyrat, Centre d’Art de Neuchâtel</p>
+      <p>2023 Liste Art Fair with Lodos gallery, Basel</p>
+      <p>2023 Ils pourront couper toutes les fleurs, Cherish, Geneva</p>
+      <p>2023 i’m sorry for bugging you but, Lodos gallery, Mexico City</p>
+      <p>2020 Conquest, Zabriskie Point, Geneva</p>
+      <div class="section-separator">•</div>
+
+      <h2>Selected Group Exhibitions</h2>
+      <p>2025 Breakdown Playlist, Inside-Out Art Museum, Beijing</p>
+      <p>2025 Material Art Fair, Lodos, Mexico City</p>
+      <p>2023 Group exhibition, hasch, Marseille</p>
+      <p>2023 Alone Together, Duplex, Geneva</p>
+      <p>2022 Swiss Art Awards, Art Basel</p>
+      <p>2022 Something like falling off the world, Forde, Geneva</p>
+      <p>2022 FASHION TIME, Mala, Lisbon</p>
+      <p>2022 Sabotages et contaminations, Gruppo Petrolio with Lili Reynaud Dewar, MO.CO, Montpellier</p>
+      <p>2021 Contramundos, Lodos gallery, Mexico City</p>
+      <p>2021 Dossier attaché (en suspens), Treize, Paris</p>
+      <p>2021 When the Subversive Stitches, Le Commun, Geneva</p>
+      <p>2021 Kiefer Hablitzel Prize, Kunsthaus Langenthal Museum</p>
+      <p>2021 Nour el Ain, curated by Mohamed Almusibli, Karma International, Zurich</p>
+      <p>2020 Le Soin des Possibles, curated by Lotte Løvholm, 1.1, Basel</p>
+      <p>2019 Material Art Fair, curated by NO CONFORMISM x Alienze, Mexico City</p>
+      <p>2018 Our Chimeras, duo show with Aude Ricard, Tunnel Tunnel, Lausanne</p>
+      <div class="section-separator">•</div>
+
+      <h2>Curatorial / Cultural Organization</h2>
+      <p>2023 – 2025 Co-Director of Forde, independent art space, with Asma Barchiche, Geneva</p>
+      <p>2020 – 2025 Programming Committee (Music, Visual Arts, Performance), Les Urbaines Festival, Lausanne</p>
+      <div class="section-separator">•</div>
+
+      <h2>Education</h2>
+      <p>2023 MA Visual Arts, Work.master, HEAD Geneva</p>
+      <p>2021 Erasmus, ENSAPC, Cergy</p>
+      <p>2019 BFA Visual Arts, HEAD Geneva</p>
+      <p>2017 Erasmus, ALBA, Beirut</p>
+      <div class="section-separator">•</div>
+    </div>
+
+    <div class="column">
+      <h2>Awards</h2>
+      <p>2025 Francine Delacrettaz Emerging Artist Award</p>
+      <p>2025 Ateliers de la Ville de Genève</p>
+      <p>2022 Finalist, Kiefer Hablitzel | Göhner Art Prize</p>
+      <p>2020 Winner, Kiefer Hablitzel | Göhner Art Prize</p>
+      <div class="section-separator">•</div>
+
+      <h2>Residencies</h2>
+      <p>2025-2026 Cité des Arts, Paris</p>
+      <p>2025 Residency at Yue Museum, Yantai, China</p>
+      <p>2025 Residency at Rhizome Gallery, supported by Pro Helvetia Cairo, Algiers</p>
+      <p>2025 Screenwriting Residency, La Salle des Sports, Geneva</p>
+      <div class="section-separator">•</div>
+
+      <h2>Lectures / Talks</h2>
+      <p>2025 Engadin Art Talk with Asma Barchiche, Lionel Bovier, and Daniel Baumann, Art Geneva</p>
+      <p>2021 Faire avec et à partir de Vaginal Davis, organized with Olga Rozenblum, Centre Pompidou, Paris</p>
+      <p>2019 Conference for Work.master: Wages For Wages Against, HEAD, Geneva</p>
+      <p>2016 Screening and discussion around Alger, 1945 – 2016, organized by Samia Henni, HEAD, Geneva</p>
+      <div class="section-separator">•</div>
+
+      <h2>Music / Sound</h2>
+      <p>2026 Monthly residency on NTS Radio (London)</p>
+      <p>2024 – 2025 Monthly residency on Rinse Radio France (Paris)</p>
+      <p>2023 – 2025 Resident DJ on Ola Radio (Marseille)</p>
+      <p>2020 Live performance, Experimental Sonic Circle, Gessnerallee, Zurich</p>
+      <p>2018 – present DJ under the alias miss sheitana</p>
+      <div class="section-separator">•</div>
+    </div>
+  </div>
+</section>
+
+  </body>
+</html>
