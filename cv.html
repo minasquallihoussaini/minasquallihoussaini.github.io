@@ -1,6 +1,107 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+
+  <style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Avenir', sans-serif;
+    font-weight: 300;
+    background-color: #fff;
+    color: #000;
+    scroll-behavior: smooth;
+  }
+  header {
+    padding: 1rem;
+    text-align: left;
+    font-size: 0.9rem;
+  }
+  header h1 {
+    font-weight: 400;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  header nav a {
+    margin-right: 1rem;
+    text-decoration: none;
+    color: rgba(0,0,0,0.75);
+    font-weight: 400;
+    font-size: 0.9rem;
+  }
+  header nav a:hover {
+    color: #bd99bd;
+  }
+  main {
+    max-width: 800px;
+    margin: 5rem auto;
+    padding: 0 1rem;
+  }
+  .post {
+    margin-bottom: 2rem;
+  }
+  .post img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+  .caption {
+    font-size: 0.55rem;
+    text-align: right;
+    margin-bottom: 0.5rem;
+    color: rgba(0,0,0,0.7);
+  }
+  .post-title {
+    font-size: 0.75rem;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+  }
+  .post-separator {
+    text-align: center;
+    font-size: 1.2rem;
+    margin: 1rem 0;
+    color: rgba(0,0,0,0.5);
+  }
+  .cv-columns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  .column {
+    flex: 1;
+    min-width: 300px;
+  }
+  .cv-columns h2 {
+    font-weight: 400;
+    font-size: 0.75rem;
+    margin-bottom: 0.25rem;
+  }
+  .cv-columns p {
+    font-size: 0.75rem;
+    margin-bottom: 0.5rem;
+  }
+  .section-separator {
+    text-align: center;
+    color: rgba(0,0,0,0.5);
+    margin: 0.5rem 0;
+  }
+  @media (max-width: 600px) {
+    header, main {
+      padding: 0.5rem;
+    }
+    header h1, header nav a {
+      font-size: 0.85rem;
+    }
+    .caption, .cv-columns h2, .cv-columns p {
+      font-size: 0.7rem;
+    }
+  }
+</style>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CV – Mina Squalli-Houssaïni</title>
